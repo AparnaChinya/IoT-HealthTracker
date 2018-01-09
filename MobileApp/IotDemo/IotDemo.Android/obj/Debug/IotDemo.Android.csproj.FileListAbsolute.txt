@@ -1,0 +1,148 @@
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\IotDemo.Droid.App.xaml.g.cs
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\IotDemo.Droid.Views.DoctorPage.xaml.g.cs
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\IotDemo.Droid.Views.MedicinePage.xaml.g.cs
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\IotDemo.Droid.Views.MedicineInfoPage.xaml.g.cs
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\IotDemo.Droid.Views.NewMedicinePage.xaml.g.cs
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\IotDemo.Android.dll
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\IotDemo.Android.pdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\IotDemo.Android.dll
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\IotDemo.Android.pdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\com.companyname.IotDemo.apk
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\com.companyname.IotDemo-Signed.apk
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\FormsViewGroup.dll
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Forms.Core.dll
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Forms.Platform.dll
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\FormsViewGroup.pdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\FormsViewGroup.dll.mdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Forms.Core.pdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Forms.Core.xml
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\android\bin\com.companyname.IotDemo.apk
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\res\layout\tabbar.xml
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\res\layout\toolbar.xml
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\res\values\styles.xml
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\res\drawable\slideout.png
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\res\drawable-hdpi\profile_generic.png
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\res\drawable-mdpi\profile_generic.png
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\res\drawable-xhdpi\profile_generic.png
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\res\drawable-xxhdpi\profile_generic.png
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\res\drawable-xxxhdpi\profile_generic.png
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\R.cs.flag
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\uploadflags.txt
+c:\users\arun\documents\visual studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\IotDemo.Android.dll.mdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Java.Interop.dll.mdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Mono.Android.dll.mdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\mscorlib.dll.mdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\System.ComponentModel.Composition.dll.mdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\System.Core.dll.mdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\System.dll.mdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\System.Net.Http.dll.mdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\System.Runtime.Serialization.dll.mdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\System.ServiceModel.Internals.dll.mdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\bin\Debug\System.Xml.dll.mdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\android\assets\IotDemo.Android.dll.mdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\android\assets\Java.Interop.dll.mdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\android\assets\Mono.Android.dll.mdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\android\assets\mscorlib.dll.mdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\android\assets\System.Core.dll.mdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\android\assets\System.dll.mdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\android\assets\System.Net.Http.dll.mdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\android\assets\System.Xml.dll.mdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\IotDemo.Android.csprojResolveAssemblyReference.cache
+c:\Users\Arun\Documents\Visual Studio 2015\Projects\IotDemo\IotDemo\IotDemo.Android\obj\Debug\IotDemo.Android.dll.mdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\IotDemo.Android.dll
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\IotDemo.Android.pdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\com.companyname.IotDemo.apk
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\com.companyname.IotDemo-Signed.apk
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\IotDemo.Android.csprojResolveAssemblyReference.cache
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\IotDemo.Android.csproj.CoreCompileInputs.cache
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\IotDemo.Droid.App.xaml.g.cs
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\IotDemo.Droid.Views.DoctorPage.xaml.g.cs
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\IotDemo.Droid.Views.MedicinePage.xaml.g.cs
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\IotDemo.Droid.Views.MedicineInfoPage.xaml.g.cs
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\IotDemo.Droid.Views.NewMedicinePage.xaml.g.cs
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\IotDemo.Android.dll
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\IotDemo.Android.pdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\android\bin\com.companyname.IotDemo.apk
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\res\values\styles.xml
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\res\drawable\slideout.png
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\res\drawable-hdpi\profile_generic.png
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\res\drawable-mdpi\profile_generic.png
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\res\drawable-xhdpi\profile_generic.png
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\res\drawable-xxhdpi\profile_generic.png
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\res\drawable-xxxhdpi\profile_generic.png
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\R.cs.flag
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\uploadflags.txt
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\IotDemo.Android.dll.mdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\mscorlib.dll.mdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\System.Core.dll.mdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\System.dll.mdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\bin\Debug\System.Xml.dll.mdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\android\assets\IotDemo.Android.dll.mdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Aparna Chinya\Desktop\IotDemo\IotDemo\IotDemo.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb

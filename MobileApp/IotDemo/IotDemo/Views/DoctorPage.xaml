@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="IotDemo.Views.DoctorPage"
+             xmlns:vm="clr-namespace:IotDemo.ViewModels;"
+             Title="{Binding Title}">
+  <ContentPage.BindingContext>
+    <vm:DoctorViewModel />
+  </ContentPage.BindingContext>
+  <Grid>
+    <Grid.RowDefinitions>
+      <RowDefinition Height="Auto"/>
+      <RowDefinition Height="*"/>
+    </Grid.RowDefinitions>
+    <!--
+      <StackLayout BackgroundColor="{StaticResource Accent}" VerticalOptions="FillAndExpand" HorizontalOptions="Fill">
+      <StackLayout Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="Center">
+        <ContentView Padding="0,40,0,40" VerticalOptions="FillAndExpand">
+          <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64"/>
+        </ContentView>
+      </StackLayout>
+    </StackLayout>
+    -->
+      <ScrollView Grid.Row="1">
+      <StackLayout Orientation="Vertical" Padding="16,40,16,40" Spacing="10">
+        <Label FontSize="22">
+          <Label.FormattedText>
+            <FormattedString>
+              <FormattedString.Spans>
+                <Span Text="Heart Monitoring System" FontAttributes="Bold" FontSize="22"/>
+                <Span Text=" "/>
+                <Span Text="" ForegroundColor="{StaticResource LightTextColor}"/>
+              </FormattedString.Spans>
+            </FormattedString>
+          </Label.FormattedText>
+        </Label>
+        
+                <WebView Source="http://apchiniotapp.azurewebsites.net/"
+        HeightRequest="100"
+        WidthRequest="500" />
+
+            </StackLayout>
+    </ScrollView>
+  </Grid>
+</ContentPage>
